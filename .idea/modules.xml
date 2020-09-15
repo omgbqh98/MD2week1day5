@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MD2week1day5.iml" filepath="$PROJECT_DIR$/MD2week1day5.iml" />
       <module fileurl="file://$PROJECT_DIR$/THAccess modifier/THAccess modifier.iml" filepath="$PROJECT_DIR$/THAccess modifier/THAccess modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THStaticMethod/THStaticMethod.iml" filepath="$PROJECT_DIR$/THStaticMethod/THStaticMethod.iml" />
     </modules>
   </component>
 </project>
